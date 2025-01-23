@@ -1,0 +1,15 @@
+venv
+
+downloaded_html
+downloaded_pdfs
+process_log
+resources_extracted_segments
+resources_processed_segments
+
+*.env
+*.log
+*.csv
+*.json
+*.html
+
+.DS_Store
